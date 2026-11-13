@@ -1,0 +1,50 @@
+
+
+@font-face {
+	font-family: IRANSans;
+	font-style: normal;
+	font-weight: 900;
+	src: url(../fonts/eot/IRANSansWeb_Black.eot);
+	src: url(../fonts/eot/IRANSansWeb_Black.eot?#iefix) format("embedded-opentype"), url(../fonts/woff/IRANSansWeb_Black.woff) format("woff"), url(../fonts/ttf/IRANSansWeb_Black.ttf) format("truetype")
+}
+
+@font-face {
+	font-family: IRANSans;
+	font-style: normal;
+	font-weight: 700;
+	src: url(../fonts/eot/IRANSansWeb_Bold.eot);
+	src: url(../fonts/eot/IRANSansWeb_Bold.eot?#iefix) format("embedded-opentype"), url(../fonts/woff/IRANSansWeb_Bold.woff) format("woff"), url(../fonts/ttf/IRANSansWeb_Bold.ttf) format("truetype")
+}
+
+@font-face {
+	font-family: IRANSans;
+	font-style: normal;
+	font-weight: 500;
+	src: url(../fonts/eot/IRANSansWeb_Medium.eot);
+	src: url(../fonts/eot/IRANSansWeb_Medium.eot?#iefix) format("embedded-opentype"), url(../fonts/woff/IRANSansWeb_Medium.woff) format("woff"), url(../fonts/ttf/IRANSansWeb_Medium.ttf) format("truetype")
+}
+
+@font-face {
+	font-family: IRANSans;
+	font-style: normal;
+	font-weight: 300;
+	src: url(../fonts/eot/IRANSansWeb_Light.eot);
+	src: url(../fonts/eot/IRANSansWeb_Light.eot?#iefix) format("embedded-opentype"), url(../fonts/woff2/IRANSansWeb_Light.woff2) format("woff2"), url(../fonts/woff/IRANSansWeb_Light.woff) format("woff"), url(../fonts/ttf/IRANSansWeb_Light.ttf) format("truetype")
+}
+
+@font-face {
+	font-family: IRANSans;
+	font-style: normal;
+	font-weight: 200;
+	src: url(../fonts/eot/IRANSansWeb_UltraLight.eot);
+	src: url(../fonts/eot/IRANSansWeb_UltraLight.eot?#iefix) format("embedded-opentype"), url(../fonts/woff2/IRANSansWeb_UltraLight.woff2) format("woff2"), url(../fonts/woff/IRANSansWeb_UltraLight.woff) format("woff"), url(../fonts/ttf/IRANSansWeb_UltraLight.ttf) format("truetype")
+}
+
+@font-face {
+	font-family: IRANSans;
+	font-style: normal;
+	font-weight: 400;
+	src: url(../fonts/eot/IRANSansWeb.eot);
+	src: url(../fonts/eot/IRANSansWeb.eot?#iefix) format("embedded-opentype"), url(../fonts/woff/IRANSansWeb.woff) format("woff"), url(../fonts/ttf/IRANSansWeb.ttf) format("truetype")
+}
+body{font-family:IRANSans !important;direction:rtl;text-align:right}.modal-contact_toggle{border-bottom-left-radius:5px;border-bottom-right-radius:0;border-top-left-radius:5px;border-top-right-radius:0;left:auto  !important;right:0  !important;transform:translateX(80px)}.modal-contact_toggle.show{transform:translateX(0)}.modal-contact_toggle.show_animation:not(:hover){animation-name:modal_contact_toggle_rtl}@keyframes modal_contact_toggle_rtl{40%{transform:translateX(0)}45%{transform:translateX(20px)}50%{transform:translateX(0)}55%{transform:translateX(20px)}60%{transform:translateX(0)}}.owl-carousel{direction:ltr}.owl-carousel .owl-item{direction:rtl}.nav-mobile aside{transform:translateX(-200px)}

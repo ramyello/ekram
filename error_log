@@ -1,0 +1,16 @@
+[27-Feb-2026 00:47:04 UTC] PHP Fatal error:  Uncaught Error: Call to a member function SelectPost() on null in /home2/raviscon/public_html/paryanplast/about.php:3
+Stack trace:
+#0 {main}
+  thrown in /home2/raviscon/public_html/paryanplast/about.php on line 3
+[27-Feb-2026 12:52:51 UTC] PHP Fatal error:  Uncaught Error: Call to a member function SelectBanner() on null in /home2/raviscon/public_html/paryanplast/footer.php:4
+Stack trace:
+#0 {main}
+  thrown in /home2/raviscon/public_html/paryanplast/footer.php on line 4
+[27-Feb-2026 14:57:20 UTC] PHP Fatal error:  Uncaught Error: Call to a member function SelectPost() on null in /home2/raviscon/public_html/paryanplast/about.php:3
+Stack trace:
+#0 {main}
+  thrown in /home2/raviscon/public_html/paryanplast/about.php on line 3
+[28-Feb-2026 05:07:23 UTC] PHP Fatal error:  Uncaught Error: Call to a member function SelectPost() on null in /home2/raviscon/public_html/paryanplast/about.php:3
+Stack trace:
+#0 {main}
+  thrown in /home2/raviscon/public_html/paryanplast/about.php on line 3
